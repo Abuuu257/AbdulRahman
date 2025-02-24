@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(16, 29, 175);
+    width: 30%;
+    height: 742px;
+    color: white;
+    position: fixed;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
